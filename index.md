@@ -6,7 +6,7 @@
 
 ## Instructors
 
-- Abbi Edwards (CRUK)
+- Abbi Edwards (CRUK CI)
 - Sina Beier (Gurdon Institute)
 - Erin Doody (SLCU)
 
